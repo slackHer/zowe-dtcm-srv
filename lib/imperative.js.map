@@ -1,0 +1,1 @@
+{"version":3,"file":"imperative.js","sourceRoot":"","sources":["../src/imperative.ts"],"names":[],"mappings":";AAAA;;;;;;;;;EASE;AAIF,MAAM,MAAM,GAAsB;IAC9B,kBAAkB,EAAE,CAAC,+BAA+B,CAAC;IACrD,sBAAsB,EAAE,uCAAuC;IAC/D,iBAAiB,EAAE,iBAAiB;IACpC,WAAW,EAAE,oBAAoB;IACjC,kBAAkB,EAAE,0BAA0B;IAC9C,IAAI,EAAE,eAAe;IACrB,aAAa,EAAE,CAAC,KAAK,EAAE,UAAU,CAAC;CACrC,CAAC;AAEF,iBAAS,MAAM,CAAC"}
